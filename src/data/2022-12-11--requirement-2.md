@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 title: Analyst
 slug: "/analyst/"
 date: "2022-12-11"

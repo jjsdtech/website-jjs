@@ -1,4 +1,5 @@
 ---
+templateKey: blog-post
 title: "Japanese Interpreter"
 slug: "/japanese-interpreter/"
 date: "2022-12-11"
